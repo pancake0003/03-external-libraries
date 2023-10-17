@@ -135,3 +135,4 @@ gsap.to(".circle2", {
 //references used:
 //Greensock Beginners Tutorials: https://youtube.com/playlist?list=PLSkIx8U0TMvgH2PEokYLIxofdb1L9cJjz&si=zCDfVrgkTOoFihzH
 //GSAP forum changing background color using ToggleActions: https://gsap.com/community/forums/topic/35917-changing-body-background-color-toggleactions/
+//ScrollTrigger example: https://codepen.io/GreenSock/pen/GREbQXW?editors=0010
