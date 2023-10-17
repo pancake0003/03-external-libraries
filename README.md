@@ -1,6 +1,11 @@
 # 03-external-libraries
- uwu
+ Aassignment 3
 
-![images are like this!] (./stars.gif)
+## External Library used
+We used GreenSock as our external library.
 
-[Links are like this!] (https://google.com)
+## Designs
+
+
+## Contributing
+Pauline and Joy
